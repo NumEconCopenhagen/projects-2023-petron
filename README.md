@@ -1,6 +1,6 @@
-# \[Group name\]
+# \[Petron\]
 
-**Group members:**
+**oscar:**
 - A
 - B
 - C
